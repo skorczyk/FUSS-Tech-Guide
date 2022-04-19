@@ -10,11 +10,11 @@ Topology of a typical educational network
 Before showing how to install servers and clients, we see in the following figure the typical network topology where FUSS can be applied.
 
 .. figure:: images/fuss-network-architecture-cur.png
-    :alt: Topologia di una rete FUSS
+    :alt: Topology of a FUSS network
 
-    Tipica topologia di una rete FUSS
+    Typical topology of a FUSS network
 
-Un server FUSS deve avere almeno 2 interfacce di rete. La prima serve per la connessione alla WAN (Wide Area Network) mentre la seconda Ã¨ collegata alla rete locale (LAN-1) della scuola. La presenza di una terza porta Ethernet sul server e di una seconda LAN nella scuola alla quale sono connessi degli access point WiFi sono i presupposti per poter installare sul server FUSS un captive-portal che offre la possibilitÃ  a dispositivi satellite di accedere ad internet previa autenticazione.
+A FUSS server must have at least 2 network interfaces. The first is used to connect to the WAN (Wide Area Network) while the second is connected to the local network (LAN-1) in the school. The presence of a third Ethernet port on the server and a second LAN in the school, to which WiFi access points are connected, are prerequisites for installing a captive-portal on the FUSS server, which enables satellite devices to access the Internet after authentication.
 
 
 Installazione di FUSS server dal template cloud-init ready
