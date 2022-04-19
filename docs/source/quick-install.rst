@@ -1,13 +1,13 @@
 ******************************
-Guida rapida all'installazione
+Quick installation guide
 ******************************
 
-Questo capitolo Ã¨ dedicato a chi vuole vedere velocemente come installare un server FUSS ed un client.
+This chapter is dedicated to those who want to quickly see how to install a FUSS server and client.
 
-Topologia di una tipica rete didattica
+Topology of a typical educational network
 ======================================
 
-Prima di mostrare come installare server e client, vediamo nella seguente figura la tipica topologia di rete dove FUSS puÃ² trovare applicazione.
+Before showing how to install servers and clients, we see in the following figure the typical network topology where FUSS can be applied.
 
 .. figure:: images/fuss-network-architecture-cur.png
     :alt: Topologia di una rete FUSS
